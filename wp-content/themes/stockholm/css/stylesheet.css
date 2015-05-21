@@ -2622,7 +2622,7 @@ nav.main_menu > ul > li > a {
 	position: relative;
 	padding: 0 24px;
 	color: #696969;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-weight: 700;
 	font-size: 12px;
 	letter-spacing: 2px;
