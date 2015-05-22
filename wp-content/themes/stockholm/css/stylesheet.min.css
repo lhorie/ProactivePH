@@ -15864,4 +15864,8 @@ div.wpcf7-response-output.wpcf7-validation-errors:before {
    End Visual Composer Grid Elements
 ============================================================================ */
 
+.pph-carousel {z-index: 0;}
+.pph-carousel .full_section_inner {width: 100% !important;}
 .pph-trivia,.pph-trivia a,.pph-trivia a:hover {color:#fff;}
+.pph-trivia-title {font-size:36px;}
+.pph-trivia-section {border-left:3px solid #467f3b;padding-left:20px;}
