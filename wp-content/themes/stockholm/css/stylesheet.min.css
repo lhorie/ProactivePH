@@ -15867,5 +15867,11 @@ div.wpcf7-response-output.wpcf7-validation-errors:before {
 .pph-carousel {z-index: 0;}
 .pph-carousel .full_section_inner {width: 100% !important;}
 .pph-trivia,.pph-trivia a,.pph-trivia a:hover {color:#fff;}
-.pph-trivia-title {font-size:32px;}
+.pph-trivia-col-left,.pph-trivia-col-right {width:49% !important;}
+.pph-trivia-col-left {margin-right:1%;}
+.pph-trivia-col-right {margin-left:1%;}
+.pph-trivia-title {font-size:32px;line-height:1.2;}
 .pph-trivia-section {border-left:3px solid #467f3b;padding-left:30px;}
+.pph-trivia-highlight strong {color:#fff;display:block;font-size:20px;}
+.pph-trivia-highlight {color:#ccff93;}
+.pph-trivia a {border:1px solid #fff;display:inline-block;padding:15px 30px;}
